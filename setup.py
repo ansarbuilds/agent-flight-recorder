@@ -13,10 +13,10 @@ setup(
     long_description_content_type="text/markdown",
     author="Mohamed Ansar",
     license="Apache-2.0",
-    url="https://github.com/kmsmohamedansar/agent-flight-recorder",
+    url="https://github.com/ansarbuilds/agent-flight-recorder",
     project_urls={
-        "Source": "https://github.com/kmsmohamedansar/agent-flight-recorder",
-        "Issues": "https://github.com/kmsmohamedansar/agent-flight-recorder/issues",
+        "Source": "https://github.com/ansarbuilds/agent-flight-recorder",
+        "Issues": "https://github.com/ansarbuilds/agent-flight-recorder/issues",
     },
     python_requires=">=3.9",
     classifiers=[

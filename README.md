@@ -1,6 +1,6 @@
 # Agent Flight Recorder
 
-[![CI](https://github.com/kmsmohamedansar/agent-flight-recorder/actions/workflows/ci.yml/badge.svg)](https://github.com/kmsmohamedansar/agent-flight-recorder/actions/workflows/ci.yml)
+[![CI](https://github.com/ansarbuilds/agent-flight-recorder/actions/workflows/ci.yml/badge.svg)](https://github.com/ansarbuilds/agent-flight-recorder/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/flightrecorder-ai)](https://pypi.org/project/flightrecorder-ai/)
 [![Python](https://img.shields.io/pypi/pyversions/flightrecorder-ai)](https://pypi.org/project/flightrecorder-ai/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
@@ -115,7 +115,7 @@ flightrecorder-mcp --db /absolute/path/to/project/.flightrecorder.sqlite
 The server exposes tools to start, append to, and finish recordings, plus tools
 to list, inspect, compare, export, and investigate them. The database remains on
 your computer. A portable
-[local-plugin example](https://github.com/kmsmohamedansar/agent-flight-recorder/tree/main/examples/codex-plugin)
+[local-plugin example](https://github.com/ansarbuilds/agent-flight-recorder/tree/main/examples/codex-plugin)
 is included in the repository and source distribution.
 
 The adapter records only actions explicitly sent to its MCP tools. It cannot
@@ -180,7 +180,7 @@ The SQLite file is created with owner-only permissions where the operating syste
 supports them. Add `.flightrecorder.sqlite*` to your project's `.gitignore` and
 treat every recording as sensitive.
 
-See the [security policy](https://github.com/kmsmohamedansar/agent-flight-recorder/blob/main/SECURITY.md)
+See the [security policy](https://github.com/ansarbuilds/agent-flight-recorder/blob/main/SECURITY.md)
 for responsible disclosure and deployment notes.
 
 For the project story and a short recording walkthrough, see the
@@ -195,5 +195,5 @@ python -m flightrecorder demo-agent
 
 CI runs the suite on Python 3.9, 3.12 and 3.13. Architecture and integration
 boundaries are described in the
-[architecture notes](https://github.com/kmsmohamedansar/agent-flight-recorder/blob/main/ARCHITECTURE.md).
+[architecture notes](https://github.com/ansarbuilds/agent-flight-recorder/blob/main/ARCHITECTURE.md).
 

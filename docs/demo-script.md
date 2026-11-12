@@ -23,4 +23,4 @@ Optional follow-up: show the Codex MCP workflow with one failing run and one rep
 
 ## Suggested caption
 
-“Agent Flight Recorder keeps a local timeline of agent tool calls, file changes and test failures. This demo removes a duplicate-payment guard; the tool identifies the edit, shows its diff and explains the evidence. Open source, Python 3.9+, with an optional MCP adapter for Codex. Demo failure is intentional. [GitHub](https://github.com/kmsmohamedansar/agent-flight-recorder) · [PyPI](https://pypi.org/project/flightrecorder-ai/)”
+“Agent Flight Recorder keeps a local timeline of agent tool calls, file changes and test failures. This demo removes a duplicate-payment guard; the tool identifies the edit, shows its diff and explains the evidence. Open source, Python 3.9+, with an optional MCP adapter for Codex. Demo failure is intentional. [GitHub](https://github.com/ansarbuilds/agent-flight-recorder) · [PyPI](https://pypi.org/project/flightrecorder-ai/)”

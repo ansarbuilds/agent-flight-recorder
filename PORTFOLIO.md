@@ -67,4 +67,4 @@ flightrecorder investigate
 flightrecorder benchmark
 ```
 
-For MCP on Python 3.10+, install `flightrecorder-ai[mcp]` and run `flightrecorder-mcp --db /absolute/path/to/recordings.sqlite`. See the [README](README.md), [architecture](ARCHITECTURE.md), [security notes](SECURITY.md), [PyPI package](https://pypi.org/project/flightrecorder-ai/) and [v1.1.1 release](https://github.com/kmsmohamedansar/agent-flight-recorder/releases/tag/v1.1.1).
+For MCP on Python 3.10+, install `flightrecorder-ai[mcp]` and run `flightrecorder-mcp --db /absolute/path/to/recordings.sqlite`. See the [README](README.md), [architecture](ARCHITECTURE.md), [security notes](SECURITY.md), [PyPI package](https://pypi.org/project/flightrecorder-ai/) and [v1.1.1 release](https://github.com/ansarbuilds/agent-flight-recorder/releases/tag/v1.1.1).
